@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="1" battleScribeVersion="2.03" authorName="Warlord Games" authorContact="info@warlordgames.com" authorUrl="https://store.warlordgames.com/" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
-    <costType id="ffdf-62d1-dc97-b85c" name="Points" defaultCostLimit="-1.0" hidden="false"/>
+    <costType id="ffdf-62d1-dc97-b85c" name="Points" defaultCostLimit="-1.0"/>
   </costTypes>
   <profileTypes>
     <profileType id="c2ff-d17b-11ef-a25b" name="Ship">
@@ -55,6 +55,7 @@
     <categoryEntry id="b241-6ad8-94a2-cc48" name="Destroyer" hidden="false"/>
     <categoryEntry id="da58-44be-bb7f-80d6" name="Aircraft Carrier" hidden="false"/>
     <categoryEntry id="c08d-d9af-1109-9c27" name="Aircraft Flight" hidden="false"/>
+    <categoryEntry id="be79-ea08-0c7b-609c" name="Civilian" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="9707-b4d0-2007-bbf6" name="Fleet" hidden="false">
@@ -64,21 +65,10 @@
         <categoryLink id="774d-c64d-cc60-8055" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
         <categoryLink id="9e32-11d8-b894-654b" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
         <categoryLink id="af42-cc1c-8240-7080" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="5c5c-7031-8552-c399" name="Civilian" hidden="false" targetId="be79-ea08-0c7b-609c" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
-  <sharedSelectionEntryGroups>
-    <selectionEntryGroup id="3180-346f-4e9b-6131" name="The Royal Navy" hidden="false" collective="false" import="true">
-      <categoryLinks>
-        <categoryLink id="499d-4861-4319-44fc" name="New CategoryLink" hidden="false" targetId="1866-60ae-9c4d-4339" primary="true"/>
-      </categoryLinks>
-    </selectionEntryGroup>
-    <selectionEntryGroup id="d8c4-9771-8ea6-35dd" name="The Imperial Japanese Navy" hidden="false" collective="false" import="true">
-      <categoryLinks>
-        <categoryLink id="b20e-7486-0496-8427" name="New CategoryLink" hidden="false" targetId="089b-2e87-1786-8bfd" primary="true"/>
-      </categoryLinks>
-    </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="d871-d9b7-cb05-632c" name="Advanced Radar" hidden="false">
       <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>

@@ -1255,7 +1255,7 @@
                 <infoLink id="5cea-92cf-c096-6277" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="5940-1705-01e7-163a" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="4c43-2ed3-722b-a702" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
-                <infoLink id="ad51-5949-d02b-ee73" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="ad51-5949-d02b-ee73" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="23a2-fa92-d61b-41fd" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -1980,7 +1980,7 @@
                 <infoLink id="a9e5-bec1-5b2d-f0fe" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="aa96-1bf1-1442-e625" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="27ef-8c6b-e450-af86" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
-                <infoLink id="ab8a-a679-7ba2-d4b2" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="ab8a-a679-7ba2-d4b2" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="2030-40b3-d497-f6cf" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -3151,7 +3151,7 @@
                 <infoLink id="096e-5585-689b-b0b4" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="1a5c-990b-158b-d86d" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="4ec6-958e-03e3-dce3" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
-                <infoLink id="483c-8286-e5d4-9438" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="483c-8286-e5d4-9438" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="8648-ab37-30f9-478b" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -4148,7 +4148,7 @@
                 <infoLink id="0aff-1670-b3c3-8f48" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="0c72-c838-2f3a-8203" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="b452-d053-403e-cb26" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
-                <infoLink id="b03a-8b76-d9c2-3060" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="b03a-8b76-d9c2-3060" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="dfca-ef34-0ecb-ba94" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -5243,7 +5243,7 @@
                 <infoLink id="de6f-fcc7-1c01-8c8c" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="dad5-40b9-1346-94d6" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
                 <infoLink id="58a0-e239-dc00-f23a" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
-                <infoLink id="99d7-72a9-651c-515e" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="99d7-72a9-651c-515e" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
               </infoLinks>
               <categoryLinks>
                 <categoryLink id="c004-1873-4ce0-31da" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
@@ -6127,7 +6127,7 @@
                 <infoLink id="25aa-516a-9aa7-8fc9" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="0ce7-af8f-feeb-e020" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="6ac9-ab65-51cf-1bca" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
-                <infoLink id="4a4f-9e0f-0f40-0692" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="4a4f-9e0f-0f40-0692" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
               </infoLinks>
               <categoryLinks>
                 <categoryLink id="d51e-fa1d-323c-d073" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
@@ -6241,7 +6241,7 @@
                 <infoLink id="4b92-9804-54ba-191a" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="4a26-b9bc-f454-1d84" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="5479-cd4c-c805-530a" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
-                <infoLink id="236b-03b2-b7d8-b364" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="236b-03b2-b7d8-b364" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
               </infoLinks>
               <categoryLinks>
                 <categoryLink id="8a33-9e49-27f5-c88d" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
@@ -6770,7 +6770,7 @@
                 <infoLink id="b58f-f534-d6cb-1ae5" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="c9b2-c08d-0ed0-80ef" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="d44a-5876-8937-4de0" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
-                <infoLink id="6827-bc95-a4f1-bd59" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="6827-bc95-a4f1-bd59" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="14ef-c0e2-b5eb-2206" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -7289,7 +7289,7 @@
                 <infoLink id="a04d-8508-7e71-a48d" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="83a1-d209-b860-e8a3" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="6731-4239-0460-9ebf" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
-                <infoLink id="e6cc-983f-d1db-b2f4" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="e6cc-983f-d1db-b2f4" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="0bb0-ae58-96d7-db6b" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -7705,7 +7705,7 @@
                 <infoLink id="a77f-95a2-3d7f-2564" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="805b-7d0c-27fd-904d" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="4878-31f5-57f3-ee0c" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
-                <infoLink id="f823-b81a-8d7f-c137" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="f823-b81a-8d7f-c137" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="a4a8-2f01-b570-5884" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -7808,7 +7808,7 @@
                 <infoLink id="31ce-d1c2-59d6-e644" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="e007-24a9-dadf-d4cb" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="ce8a-d388-c578-64c5" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
-                <infoLink id="d4ce-7f1d-7aca-5e53" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="d4ce-7f1d-7aca-5e53" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="ebd8-8cd1-b451-5f2c" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -8223,7 +8223,7 @@
                 <infoLink id="b855-d9bd-034e-5da6" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="55f6-b47a-6cfb-61dd" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="94f0-d5e3-cc8d-1dc9" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
-                <infoLink id="9aeb-789b-07da-d436" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="9aeb-789b-07da-d436" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="b125-86ce-c9fe-ca95" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
               </infoLinks>
               <categoryLinks>
@@ -8881,7 +8881,7 @@
                 <infoLink id="2504-4cb7-2568-f587" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
                 <infoLink id="b83a-93ee-8f3d-c50b" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="5603-b460-07f9-f204" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
-                <infoLink id="5953-162a-ac05-996d" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="5953-162a-ac05-996d" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
               </infoLinks>
               <categoryLinks>
                 <categoryLink id="bdbc-8aa5-b32e-2365" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
@@ -9015,7 +9015,7 @@
                 <infoLink id="bd3d-67fc-7dd7-4cd9" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
                 <infoLink id="851f-1600-6870-037f" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="45a2-c5ab-72b5-2ccd" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
-                <infoLink id="27e2-6789-532f-53d1" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="27e2-6789-532f-53d1" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
               </infoLinks>
               <categoryLinks>
                 <categoryLink id="9043-b0c0-200d-af91" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
@@ -11447,6 +11447,139 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d139-2c3d-1d49-61f4" name="Dale-Class Oil Tanker" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="4d20-a86f-ab2f-1f7c" name="Dale-Class Oil Tanker" hidden="false" collective="false" import="true" type="model">
+          <profiles>
+            <profile id="3d69-a7ad-d398-a65c" name="Dale-Class Oil Tanker" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+              <characteristics>
+                <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Civilian</characteristic>
+                <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">3&quot;</characteristic>
+                <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">1+</characteristic>
+                <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">14</characteristic>
+                <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">4</characteristic>
+                <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Lumbering</characteristic>
+                <characteristic name="Points" typeId="285a-5546-b819-e547">40</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="508e-8918-f88f-5002" name="Light Guns (1 x 4-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+              <characteristics>
+                <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Light Guns (1 x 4-inch)</characteristic>
+                <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">3&quot;</characteristic>
+                <characteristic name="Short" typeId="b870-c868-b685-0d61">7&quot;</characteristic>
+                <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">10&quot;</characteristic>
+                <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">14&quot;</characteristic>
+                <characteristic name="AD" typeId="c713-7f6f-938e-99f1">1</characteristic>
+                <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Slow-Loading, Weak</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="79a7-26c2-1c29-81ee" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+              <characteristics>
+                <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">1&quot;</characteristic>
+                <characteristic name="Short" typeId="b870-c868-b685-0d61">3&quot;</characteristic>
+                <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">4&quot;</characteristic>
+                <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">5&quot;</characteristic>
+                <characteristic name="AD" typeId="c713-7f6f-938e-99f1">1</characteristic>
+                <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 1</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <rules>
+            <rule id="3ea7-3e5b-7125-f645" name="Lumbering" hidden="false">
+              <description>May only make one change of direction during its movement. Additionally, Lumbering ships may not use the Evade! order.</description>
+            </rule>
+            <rule id="69cf-2045-44d2-7bdd" name="Slow-Loading" hidden="false">
+              <description>These weapons may not fire if they were used in the previous turn. Ships with Slow-Loading torpedoes may only reload once, after which they may no longer be used.</description>
+            </rule>
+            <rule id="8a62-e1b0-714d-0198" name="Weak" hidden="false">
+              <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
+            </rule>
+            <rule id="a92c-5706-467a-82a4" name="Volatile" hidden="false">
+              <description>If an Oil Tanker is hit by a torpedo or bomb, or if the ship suffers any kind of critical hit that results in Fire, Multiple Fires or any kind of Explosion, roll a D6. On a roll of 6, the ship explodes and sinks immediately.</description>
+            </rule>
+            <rule id="1b27-c733-95fd-eee6" name="DP" hidden="false">
+              <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
+            </rule>
+          </rules>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bb3b-8dbe-1159-5d7c" name="Dale-Class Oil Tanker 1944" hidden="false" collective="false" import="true" type="model">
+          <profiles>
+            <profile id="dc99-ebf1-5b69-f478" name="Dale-Class Oil Tanker" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+              <characteristics>
+                <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Civilian</characteristic>
+                <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">3&quot;</characteristic>
+                <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">1+</characteristic>
+                <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">14</characteristic>
+                <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">4</characteristic>
+                <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Lumbering</characteristic>
+                <characteristic name="Points" typeId="285a-5546-b819-e547">45</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="8d44-b875-5d91-c960" name="Light Guns (1 x 4-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+              <characteristics>
+                <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Light Guns (1 x 4-inch)</characteristic>
+                <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">3&quot;</characteristic>
+                <characteristic name="Short" typeId="b870-c868-b685-0d61">7&quot;</characteristic>
+                <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">10&quot;</characteristic>
+                <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">14&quot;</characteristic>
+                <characteristic name="AD" typeId="c713-7f6f-938e-99f1">1</characteristic>
+                <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Slow-Loading, Weak</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="dc85-c337-9046-379f" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+              <characteristics>
+                <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">1&quot;</characteristic>
+                <characteristic name="Short" typeId="b870-c868-b685-0d61">3&quot;</characteristic>
+                <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">4&quot;</characteristic>
+                <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">5&quot;</characteristic>
+                <characteristic name="AD" typeId="c713-7f6f-938e-99f1">1</characteristic>
+                <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 2</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <rules>
+            <rule id="a779-e931-cb43-7d93" name="Lumbering" hidden="false">
+              <description>May only make one change of direction during its movement. Additionally, Lumbering ships may not use the Evade! order.</description>
+            </rule>
+            <rule id="4ed1-734c-d6db-ebad" name="Slow-Loading" hidden="false">
+              <description>These weapons may not fire if they were used in the previous turn. Ships with Slow-Loading torpedoes may only reload once, after which they may no longer be used.</description>
+            </rule>
+            <rule id="d095-6505-bb55-34a9" name="Weak" hidden="false">
+              <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
+            </rule>
+            <rule id="3773-7540-af33-ef0b" name="Volatile" hidden="false">
+              <description>If an Oil Tanker is hit by a torpedo or bomb, or if the ship suffers any kind of critical hit that results in Fire, Multiple Fires or any kind of Explosion, roll a D6. On a roll of 6, the ship explodes and sinks immediately.</description>
+            </rule>
+            <rule id="931f-25be-705e-a07c" name="DP" hidden="false">
+              <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
+            </rule>
+          </rules>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="40.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>

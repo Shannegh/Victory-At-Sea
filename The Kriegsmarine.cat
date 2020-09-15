@@ -77,6 +77,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="100b-083f-8b25-5da0" name="Bismarck-Class Battleship" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
@@ -209,6 +212,9 @@
                 <infoLink id="404d-cdc1-e487-bb19" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
                 <infoLink id="201e-5f09-3bd9-4ebe" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="7016-5c6b-ef79-83e2" name="Bismarck Refit 1941" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -338,6 +344,9 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="aa03-39cd-e285-e2f9" name="Tirpitz" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -464,6 +473,9 @@
                 <infoLink id="56b7-1a64-cb5f-219f" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
                 <infoLink id="31de-7995-a234-16d3" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="5d9f-e361-bc88-67bb" name="Tirpitz Refit 1941" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -1038,6 +1050,9 @@
                 <infoLink id="0afa-894f-f891-a620" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="0776-7327-085c-5160" name="Twin-Linked" hidden="false" targetId="45a1-1627-c8e2-b9ec" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="06ca-daf5-6dcc-43e9" name="Scharnhorst Refit 1942" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -1453,7 +1468,7 @@
                 <infoLink id="9fc8-3628-e495-cbd1" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
                 <infoLink id="18d7-8c19-d480-2189" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="e518-52b1-1305-fc9f" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
-                <infoLink id="6152-0c51-76a5-73ca" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="6152-0c51-76a5-73ca" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="cb34-c0da-8d60-dafd" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
                 <infoLink id="07e9-3265-19c0-139b" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="aa20-c548-3641-6bd7" name="Twin-Linked" hidden="false" targetId="45a1-1627-c8e2-b9ec" type="rule"/>
@@ -1691,6 +1706,9 @@
                 <infoLink id="15c8-0e10-b4c3-3940" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="ba5b-a850-d060-cafa" name="Twin-Linked" hidden="false" targetId="45a1-1627-c8e2-b9ec" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="17f5-a5fa-395e-99ce" name="Gneisenau Refit 1942" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -1965,7 +1983,7 @@
                 <infoLink id="9457-93b2-8587-4094" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
                 <infoLink id="08ed-e6e9-38ff-0c3d" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
                 <infoLink id="f32f-fb87-60d8-8efc" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
-                <infoLink id="cbb4-ae96-690c-8c52" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="cbb4-ae96-690c-8c52" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="3a92-16cd-41de-328a" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
                 <infoLink id="8c0a-0edc-f7d0-bb12" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="b2e4-f78d-a255-6944" name="Twin-Linked" hidden="false" targetId="45a1-1627-c8e2-b9ec" type="rule"/>
@@ -1975,6 +1993,9 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -2126,6 +2147,9 @@
                 <infoLink id="15fb-f822-8fb2-8347" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="a612-0311-645d-9655" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="ec90-d88f-2a18-02c1" name="Admiral Hipper Refit 1942" hidden="false" collective="false" import="true" type="unit">
               <profiles>
@@ -2551,6 +2575,9 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="1bfa-2edd-6751-985a" name="Blucher" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -2691,8 +2718,14 @@
                 <infoLink id="59b3-38d7-8c75-173d" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="824e-d49c-6c18-17b0" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="1c36-e8a4-0ab2-1871" name="Prinz Eugen" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -2833,6 +2866,9 @@
                 <infoLink id="aa8d-ce79-0433-5309" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="9e15-ccf0-37f6-e051" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="2415-c192-efe9-6e71" name="Prinz Eugen Refit 1942" hidden="false" collective="false" import="true" type="unit">
               <profiles>
@@ -3244,7 +3280,7 @@
               </profiles>
               <infoLinks>
                 <infoLink id="324c-a0f1-3063-fefd" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
-                <infoLink id="faed-898d-0593-ef98" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="faed-898d-0593-ef98" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="e399-4087-7a72-f598" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="0c06-d678-8d35-4e9b" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
                 <infoLink id="83db-414d-040f-5c5a" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
@@ -3459,8 +3495,14 @@
                 <infoLink id="6200-aace-9987-9ece" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="4e97-2aec-3bee-b1e3" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="9d54-0974-6101-5294" name="Z24" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -3648,8 +3690,14 @@
                 <infoLink id="a977-7948-49ad-d177" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="658f-87ed-1a97-cb38" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a619-2dfa-0263-4419" name="Z25" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -3837,6 +3885,9 @@
                 <infoLink id="6acd-514a-8232-fad2" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="ac3a-0e62-d2e5-39a0" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="1746-eeb8-cb4a-d017" name="Z25 Refit 1945" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -3941,6 +3992,9 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="f796-525f-87bf-2168" name="Z26" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -4026,8 +4080,14 @@
                 <infoLink id="e5cc-cac0-39f5-1c7c" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="1393-b823-44aa-76f0" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="7f77-12dd-2ff1-cfbf" name="Z30" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -4113,8 +4173,14 @@
                 <infoLink id="7c8c-5401-59f4-1d26" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="b6ed-e749-e3a4-ecfa" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="1c11-4741-4e0f-24ab" name="Z27" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -4200,8 +4266,14 @@
                 <infoLink id="4821-4477-16e6-54e3" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="f025-d982-8e1e-5867" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="df95-e2bd-d0db-4538" name="Z28" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -4287,6 +4359,9 @@
                 <infoLink id="006a-3993-e80c-0e06" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="84a3-4018-9873-cd63" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="a777-c312-27d4-930c" name="Z28 Refit 1945" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -4380,7 +4455,7 @@
               <infoLinks>
                 <infoLink id="c396-501b-aeaf-a574" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
                 <infoLink id="35c2-46df-618e-5a4c" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
-                <infoLink id="8ddc-97c1-0f50-7363" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="8ddc-97c1-0f50-7363" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="43e5-1e0a-8228-2576" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="fc37-d2e9-c5ee-8e68" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="cf39-b6aa-24c4-7366" name="Fast Track" hidden="false" targetId="bc69-ec1d-940f-6f5f" type="rule"/>
@@ -4391,6 +4466,9 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="aac7-d8bb-fd88-e1fe" name="Z29" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -4486,7 +4564,7 @@
               <infoLinks>
                 <infoLink id="0355-ccdf-679e-7738" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
                 <infoLink id="9e32-d347-e0e4-3364" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
-                <infoLink id="ca03-0fc7-4c24-ab4b" name="Advanced Radar" hidden="false" targetId="ae2b-ffe9-e648-ec44" type="rule"/>
+                <infoLink id="ca03-0fc7-4c24-ab4b" name="Advanced Radar" hidden="false" targetId="d871-d9b7-cb05-632c" type="rule"/>
                 <infoLink id="bcbe-2038-e110-04b5" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="388b-fe70-cb32-020c" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
                 <infoLink id="4e67-356e-b438-e4b2" name="Fast Track" hidden="false" targetId="bc69-ec1d-940f-6f5f" type="rule"/>
@@ -4578,8 +4656,14 @@
                 <infoLink id="e356-956b-e537-b1ca" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
                 <infoLink id="1f37-0c12-8dfa-3652" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -4702,8 +4786,14 @@
                 <infoLink id="e82d-059a-504a-d4a0" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="b89b-4bf6-f672-be15" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="505a-1672-f7f2-5290" name="Karlsruhe" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -4815,6 +4905,9 @@
                 <infoLink id="d8c4-c061-f966-f9b0" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="f18a-c3c0-14ad-559f" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
           <costs>
@@ -4930,6 +5023,9 @@
                 <infoLink id="356d-9716-c58a-492d" name="One-Shot" hidden="false" targetId="058f-a5b9-cd1f-8351" type="rule"/>
                 <infoLink id="9c49-768d-cb7c-6684" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="9256-3325-eb42-7a91" name="Koln Refit 1941" hidden="false" collective="false" import="true" type="model">
               <profiles>
@@ -5151,6 +5247,9 @@
                 <infoLink id="bd1a-202e-f3f2-4b10" name="Devastating" hidden="false" targetId="3ffc-3c02-4704-296b" type="rule"/>
                 <infoLink id="3825-adcc-4079-f023" name="Radar" hidden="false" targetId="a540-d4b9-4520-5ea1" type="rule"/>
               </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="40b7-6bd5-12fe-41db" name="Koln Refit 1944" hidden="false" collective="false" import="true" type="model">
               <profiles>

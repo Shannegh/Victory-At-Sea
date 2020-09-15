@@ -17,6 +17,11 @@
       </categoryLinks>
     </entryLink>
     <entryLink id="811f-0a63-1158-fbee" name="Mitsubishi Zero Flights" hidden="false" collective="false" import="true" targetId="5869-67a1-6f0c-712c" type="selectionEntry"/>
+    <entryLink id="d9cc-d649-175e-d704" name="Shiretoko-Class Oil Tanker" hidden="false" collective="false" import="true" targetId="a8c0-93fa-035a-5a1b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="40b5-43af-456b-8b34" name="New CategoryLink" hidden="false" targetId="be79-ea08-0c7b-609c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <rules>
     <rule id="ebb9-ec39-5ca9-043a" name="Long Lance" hidden="false">
@@ -5130,6 +5135,9 @@
                   </characteristics>
                 </profile>
               </profiles>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="1ab7-d905-fa98-bbb8" name="Mitsubishi A6M2 Zero Fighter" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
@@ -5140,7 +5148,7 @@
                     <characteristic name="Role" typeId="81db-f323-b61e-5f1f">Fighter</characteristic>
                     <characteristic name="Flank Speed" typeId="e29b-b9eb-d470-d6f8">24&quot;</characteristic>
                     <characteristic name="Dogfight" typeId="bbad-b699-5476-bdfc">+2</characteristic>
-                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5"></characteristic>
+                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5"/>
                     <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">-</characteristic>
                     <characteristic name="Points" typeId="4987-2d92-bb96-5dd5">20</characteristic>
                   </characteristics>
@@ -5151,6 +5159,9 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="dca7-38a4-59b1-5d63" name="1944" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntries>
@@ -5169,6 +5180,9 @@
                   </characteristics>
                 </profile>
               </profiles>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="bc67-e001-5fd8-0d1b" name="Mitsubishi A6M5 Zero Fighter" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
@@ -5179,7 +5193,7 @@
                     <characteristic name="Role" typeId="81db-f323-b61e-5f1f">Fighter</characteristic>
                     <characteristic name="Flank Speed" typeId="e29b-b9eb-d470-d6f8">25&quot;</characteristic>
                     <characteristic name="Dogfight" typeId="bbad-b699-5476-bdfc">+3</characteristic>
-                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5"></characteristic>
+                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5"/>
                     <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">-</characteristic>
                     <characteristic name="Points" typeId="4987-2d92-bb96-5dd5">20</characteristic>
                   </characteristics>
@@ -5209,10 +5223,66 @@
               </costs>
             </selectionEntry>
           </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a8c0-93fa-035a-5a1b" name="Shiretoko-Class Oil Tanker" hidden="false" collective="false" import="true" type="upgrade">
+      <selectionEntries>
+        <selectionEntry id="4ec7-11c7-ff2b-c7bc" name="Shiretoko-Class Oil Tanker" hidden="false" collective="false" import="true" type="model">
+          <profiles>
+            <profile id="a33b-0c79-f0e7-6105" name="Shiretoko-Class Oil Tanker" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+              <characteristics>
+                <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Civilian</characteristic>
+                <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">3&quot;</characteristic>
+                <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">1+</characteristic>
+                <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">14</characteristic>
+                <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">4</characteristic>
+                <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Lumbering</characteristic>
+                <characteristic name="Points" typeId="285a-5546-b819-e547">30</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="e44f-7439-d6e3-027f" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+              <characteristics>
+                <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">1&quot;</characteristic>
+                <characteristic name="Short" typeId="b870-c868-b685-0d61">3&quot;</characteristic>
+                <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">4&quot;</characteristic>
+                <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">6&quot;</characteristic>
+                <characteristic name="AD" typeId="c713-7f6f-938e-99f1">1</characteristic>
+                <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 1</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <rules>
+            <rule id="b6c8-75a7-33ac-89a4" name="Lumbering" hidden="false">
+              <description>May only make one change of direction during its movement. Additionally, Lumbering ships may not use the Evade! order.</description>
+            </rule>
+            <rule id="bd66-74d5-07fe-0444" name="Slow-Loading" hidden="false">
+              <description>These weapons may not fire if they were used in the previous turn. Ships with Slow-Loading torpedoes may only reload once, after which they may no longer be used.</description>
+            </rule>
+            <rule id="b0ac-ed59-e2a8-fa5a" name="Weak" hidden="false">
+              <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
+            </rule>
+            <rule id="f387-1f8f-ac3c-b0f6" name="Volatile" hidden="false">
+              <description>If an Oil Tanker is hit by a torpedo or bomb, or if the ship suffers any kind of critical hit that results in Fire, Multiple Fires or any kind of Explosion, roll a D6. On a roll of 6, the ship explodes and sinks immediately.</description>
+            </rule>
+          </rules>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
